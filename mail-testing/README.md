@@ -49,3 +49,7 @@ test_email_functionality:
     - ./run_tests.sh
     - curl http://mailpit:8025/api/v1/messages  # Fetch email data
 ```
+
+## Testing
+
+https://chatgpt.com/share/6717c4f3-1778-8011-92f4-09936b1c01d1

@@ -16,9 +16,13 @@
 
 # Integration Testing Tools
 ## Mail Testing
+MailPit
+
+## SMS Testing
+LocalStack and MockSMS
 
 ## API Contracts Testing
-
+PactIO
 
 ## Storage Testing
 MinIO provides a simple and efficient way to mock AWS S3 for integration testing. By running a local MinIO server, you can simulate real-world S3 operations in your development and CI pipelines without relying on AWS infrastructure.
